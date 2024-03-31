@@ -1,0 +1,113 @@
+[
+    {
+        "id": "0017",
+        "type": "donut",
+        "name": "Old Fashioned",
+        "ppu": 0.65,
+        "batters": {
+            "batter": [
+                { "id": "1001", "type": "Regular" },
+                { "id": "1002", "type": "Chocolate" },
+                { "id": "1003", "type": "Blueberry" },
+                { "id": "1004", "type": "Devil's Food" }
+            ]
+        },
+        "topping": [
+            { "id": "5001", "type": "None" },
+            { "id": "5002", "type": "Glazed" },
+            { "id": "5003", "type": "Chocolate" },
+            { "id": "5004", "type": "Maple" },
+            { "id": "5005", "type": "Sugar" }
+        ]
+    },
+    {
+        "id": "0018",
+        "type": "donut",
+        "name": "Regular",
+        "ppu": 0.55,
+        "batters": {
+            "batter": [
+                { "id": "1001", "type": "Regular" }
+            ]
+        },
+        "topping": [
+            { "id": "5001", "type": "None" },
+            { "id": "5002", "type": "Glazed" },
+            { "id": "5005", "type": "Sugar" }
+        ]
+    },
+    {
+        "id": "0019",
+        "type": "donut",
+        "name": "Blueberry",
+        "ppu": 0.75,
+        "batters": {
+            "batter": [
+                { "id": "1001", "type": "Regular" }
+            ]
+        },
+        "topping": [
+            { "id": "5002", "type": "Glazed" },
+            { "id": "5003", "type": "Chocolate" },
+            { "id": "5004", "type": "Maple" }
+        ],
+        "filling": [
+            { "id": "6001", "name": "None" },
+            { "id": "6002", "name": "Custard" },
+            { "id": "6003", "name": "Whipped Cream" },
+            { "id": "6004", "name": "Strawberry Jelly" }
+        ]
+    },
+    {
+        "id": "0004",
+        "type": "donut",
+        "name": "Jelly",
+        "ppu": 0.65,
+        "batters": {
+            "batter": [
+                { "id": "1001", "type": "Regular" },
+                { "id": "1002", "type": "Chocolate" },
+                { "id": "1003", "type": "Blueberry" },
+                { "id": "1004", "type": "Devil's Food" }
+            ]
+        },
+        "topping": [
+            { "id": "5001", "type": "None" },
+            { "id": "5002", "type": "Glazed" },
+            { "id": "5003", "type": "Chocolate" },
+            { "id": "5004", "type": "Maple" },
+            { "id": "5005", "type": "Sugar" }
+        ]
+    },
+    {
+        "id": "0020",
+        "type": "donut",
+        "name": "Devil's Food",
+        "ppu": 0.75,
+        "batters": {
+            "batter": [
+                { "id": "1001", "type": "Regular" }
+            ]
+        },
+        "topping": [
+            { "id": "5002", "type": "Glazed" },
+            { "id": "5003", "type": "Chocolate" }
+        ]
+    },
+    {
+        "id": "0021",
+        "type": "donut",
+        "name": "Vanilla Cream",
+        "ppu": 0.75,
+        "batters": {
+            "batter": [
+                { "id": "1001", "type": "Regular" },
+                { "id": "1002", "type": "Chocolate" }
+            ]
+        },
+        "topping": [
+            { "id": "5002", "type": "Glazed" },
+            { "id": "5004", "type": "Maple" }
+        ]
+    }
+]
